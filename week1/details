@@ -1,0 +1,8 @@
+name=input("enter the name:")
+roll=input("enter the roll number:")
+email=input("enter the email:")
+adr=input("enter the address:")
+print("NAME:",name)
+print("ROLL NUMBER:",roll)
+print("EMAIL:",email)
+print("ADDRESS:",adr)
