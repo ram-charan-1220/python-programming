@@ -1,3 +1,4 @@
+
 def crew(l1,n1):
     
     for i in range(n1):
@@ -50,3 +51,6 @@ e3=evensum(l3,n3)
 print(e3)
 required=(e1+e2+e3)*(o1+o2+o3)
 print(required)
+
+    
+    
